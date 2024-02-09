@@ -7,3 +7,5 @@ The objective of this project is pursued through the implementation of **Convolu
 To guarantee reproducibility of results, I made available the final model in **.h5** format, feel free to download the file and to load it with Keras.
 
 I am open to receive any feedback from you, enjoy! 💻
+
+P.S. For some reason, Github does not render the code correctly thus to see it clearly you should download the notebook.
