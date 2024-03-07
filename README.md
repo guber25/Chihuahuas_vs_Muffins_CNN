@@ -8,4 +8,3 @@ To guarantee reproducibility of results, I made available the final model in **.
 
 I am open to receive any feedback from you, enjoy! 💻
 
-P.S. For some reason, Github does not render the code correctly thus to see it clearly you should download the notebook.
